@@ -1,0 +1,7 @@
+{
+  "name": "DLA Studio",
+  "description": "An AI-powered studio for generating art-grade imagery with control over poses, angles, outfits, and storyboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
